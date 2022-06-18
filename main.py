@@ -1,6 +1,6 @@
 from faceitstats import Stats
 
-API_KEY = "8ebb08a2-8fb4-4daf-b90f-68ff7876ccf2"
+API_KEY = ""
 player = "myy"
 
 faceitmyy = Stats(API_KEY, player)
