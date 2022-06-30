@@ -9,3 +9,4 @@ Usage:
 - run main.py to generate a JSON file (example included in the repo)
 
 Notebook file shows some example analysis. For example, I've mapped the player's average stats given a specific teammate in their team.
+![image](https://user-images.githubusercontent.com/85946482/176787681-d6805f9d-b967-4a5e-8814-3b3409bd7ec7.png)
