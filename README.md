@@ -1,5 +1,5 @@
 # faceit-players-stats
-Python program to get player's matches and their stats from FaceIt. Made by using the official FaceIt API.
+Python program to get player's matches and their stats from FaceIt. Uses the official FaceIt API.
 
 https://developers.faceit.com/docs/tools/data-api
 
