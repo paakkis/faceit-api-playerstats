@@ -5,7 +5,7 @@ from tqdm import tqdm
 
 class Stats:
     def __init__(self, api_key, player):
-        self.api_key = "8ebb08a2-8fb4-4daf-b90f-68ff7876ccf2"
+        self.api_key = ""
         self.player = player
         self.player_id = None
         self.player_stats = None
